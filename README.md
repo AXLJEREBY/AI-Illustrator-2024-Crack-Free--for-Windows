@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
 </div>
 <h1>Capture One 23 Pro for Windows-32/64</h1>
-<p><img src="https://repository-images.githubusercontent.com/878691652/be1af909-b495-4783-b8a7-9ec8a9624d24"/></p>
+<p><img src="https://repository-images.githubusercontent.com/878691652/9432d102-4f59-4171-bed9-e0ba055f338a"/></p>
 
 | Downloads | For Windows |
 |:-------------:|:--------:|
